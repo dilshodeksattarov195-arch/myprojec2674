@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscpdate",
+        "uuid": 7187712,
+        "checksum": "eiywf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
